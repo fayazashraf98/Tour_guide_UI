@@ -1,16 +1,13 @@
-# pakistan_tour
+# Travel App UI In Flutter 
 
-A new Flutter project.
+Travel App UI Template made in Flutter for both Android & iOS.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![mobile](https://user-images.githubusercontent.com/97346744/198978464-0022cbd6-b640-4c3a-9780-6e936ba1111d.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Details 
+Simple traveling app UI with three screens first screen is starting Screen second screen is home screen where display all the cities and third screen is view screen
+where user can see the details of the city.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
